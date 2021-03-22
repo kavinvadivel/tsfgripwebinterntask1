@@ -1,0 +1,28 @@
+body {
+    
+}
+#header
+{
+    background-color:lightgreen;
+    color:violet;
+    text-align:center;
+}
+#hc
+{
+    display:none;
+}
+#hmenu
+{
+    background-color:lightgreen;
+    border:0px;
+    color:violet;
+    text-align:left;
+    position:absolute;
+    left:10px;
+}
+#lbut
+{
+	background-color:gray;
+	color:violet;
+	border:0px;
+}
